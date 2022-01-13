@@ -1,4 +1,4 @@
-![Cover](https://github.com/LaitAh/LaitAh/blob/master/img/front.png)
+![Cover](https://github.com/LaitAh/LaitAh/img/front.png)
 
 ### Hi there 👋
 
