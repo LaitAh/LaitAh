@@ -10,10 +10,10 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@lea_clair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lea_clair" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leaclair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leaclair" height="30" width="40" /></a>
 <a href="https://instagram.com/lea.clair_conception" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lea.clair_conception" height="30" width="40" /></a>
 <a href="https://www.behance.net/leaclair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="leaclair" height="30" width="40" /></a>
+<a href="https://twitter.com/@lea_clair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lea_clair" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
