@@ -6,7 +6,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
 <h1 align="center">Hi 👋, I'm Léa</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate graphic designer and frontend developer from France</h3>
+<h4 align="center">If you want to discover my graphic projects, you can visit <a href="https://www.behance.net/leaclair" target="blank">my behance page by clicking here</a><br/>If you want to discover my web projects, don't move, you are in the right place</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
