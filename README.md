@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 # 👋 Hi, I am Léa !
 A passionate junior frontend developer and graphic designer from France
 <br/>
@@ -40,3 +39,13 @@ I am talking both French and English
 
 <br/>
 and happy to still learn :seedling:
+
+## :dart: My stats
+
+<a href="https://github.com/laitah/github-readme-stats" height="200">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laitah&layout=compact&show_icons=true&count_private=true" alt="The most used languages of LaitAh" />
+</a>
+<a href="https://github.com/laitah/convoychat" height="200">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laitah&show_icons=true&hide=contribs,prs&count_private=true" alt="LaitAh's github stats" />
+</a>
+
