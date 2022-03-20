@@ -46,6 +46,6 @@ and happy to still learn :seedling:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laitah&layout=compact&show_icons=true&count_private=true" alt="The most used languages of LaitAh" />
 </a>
 <a href="https://github.com/laitah/convoychat" height="200">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laitah&show_icons=true&hide=contribs,prs&count_private=true" alt="LaitAh's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laitah&show_icons=true&hide=contribs,issues&count_private=true" alt="LaitAh's github stats" />
 </a>
 
