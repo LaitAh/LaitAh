@@ -41,6 +41,7 @@ and happy to still learn :seedling:
 
 [comment]: <> (Badges: https://dev.to/envoy_/150-badges-for-github-pnk)
 
+<!---
 ## :dart: My stats
 
 <a href="https://github.com/laitah/github-readme-stats" height="200">
@@ -49,3 +50,4 @@ and happy to still learn :seedling:
 <a href="https://github.com/laitah/convoychat" height="200">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=laitah&show_icons=true&hide=contribs,issues&count_private=true" alt="LaitAh's github stats" />
 </a>
+-->
